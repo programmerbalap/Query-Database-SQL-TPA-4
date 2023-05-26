@@ -1,0 +1,2 @@
+-- DROP TABLE PEMBAYARAN
+DROP TABLE pembayaran;

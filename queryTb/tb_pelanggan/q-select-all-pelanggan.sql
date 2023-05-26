@@ -1,0 +1,2 @@
+-- SELECT ALL PELANGGAN
+SELECT * FROM pelanggan;

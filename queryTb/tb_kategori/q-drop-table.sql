@@ -1,0 +1,2 @@
+-- DROP TABLE KATEGORI
+DROP TABLE kategori_barang;

@@ -1,0 +1,2 @@
+-- DROP TABLE PELANGGAN
+DROP TABLE pelanggan;
